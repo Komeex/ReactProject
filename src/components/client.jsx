@@ -13,7 +13,7 @@ export default function Client() {
             <div className="flex flex-col  items-center gap-[16px] mt-[48px] overflow-x-hidden mx-[144px]">
                 <div className="flex flex-col items-center gap-[8px]">
                     <h2 className="text-[36px] font-semibold text-[#4D4D4D]">Our Clients</h2>
-                    <p className="text-[#717171]">We have been working with some Fortune 500+ clients</p>
+                    <p className="text-[#717171]">We have been working with some Fortune 300+ clients</p>
                     </div>
                     <div className="flex flex-wrap justify-between w-[1152px] h-[98px] items-center gap-4 mt-6 ">
                         {Client.map((client) => (
