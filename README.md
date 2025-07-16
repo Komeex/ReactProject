@@ -1,12 +1,20 @@
-# React + Vite
+🎨 Figma to React + Tailwind
+A modern UI built by converting Figma designs into responsive components using React, TailwindCSS, and Vite.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Clean, reusable, and production-ready — perfect for frontend projects with a design-first approach.
 
-Currently, two official plugins are available:
+🔧 Built With
+⚛️ React
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🎨 TailwindCSS
 
-## Expanding the ESLint configuration
+⚡ Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🖌️ Figma
+
+💻 Features
+Pixel-perfect design match
+
+Component-based structure
+
+Fast development with HMR
