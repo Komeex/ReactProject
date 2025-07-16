@@ -24,7 +24,7 @@ export default function Statistics() {
       <div className="px-[144px] pt-[48px] flex items-center justify-around bg-[#F5F7FA] h-[288px]">
         <div className="flex flex-col w-[540px] h-[120px] gap-[8px]">
           <h2 className="max-w-[408px] max-h-[88px] text-[36px] font-semibold text-[#4D4D4D] leading-[44px]">
-            Helping a local{" "}
+            Helping a local.{" "}
             <span className="text-[#4CAF4F]">business reinvent itself</span>
           </h2>
           <p className="">We reached here with our hard work and dedication</p>
